@@ -1,2 +1,2 @@
 # Bootstrap
-Here I create a demo navbar using bootstap..which is resposive.
+Here I create some web pages using bootstap..which is resposive.
